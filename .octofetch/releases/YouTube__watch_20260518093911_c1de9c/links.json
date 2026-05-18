@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4553",
+  "folder": "YouTube__watch_20260518093911_c1de9c",
+  "base_name": "HOW_MUCH_DEFENCE_ExCaL_vs_Marakar_Stealth_vs_Infantry_Sand_Scorpion_ivMmyQSXTCo_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-2/releases/tag/co-releases-v1-4553",
+  "files": [
+    {
+      "name": "HOW_MUCH_DEFENCE_ExCaL_vs_Marakar_Stealth_vs_Infantry_Sand_Scorpion_ivMmyQSXTCo_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-2/releases/download/co-releases-v1-4553/HOW_MUCH_DEFENCE_ExCaL_vs_Marakar_Stealth_vs_Infantry_Sand_Scorpion_ivMmyQSXTCo_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-2/releases/assets/423167399",
+      "id": 423167399,
+      "size": 522008607,
+      "download_count": 0
+    }
+  ]
+}
