@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1508",
+  "folder": "YouTube__watch_20260518095821_73eb52",
+  "base_name": "X-UI_SSL_uCuGyPflnVk_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-2/releases/tag/co-releases-v1-1508",
+  "files": [
+    {
+      "name": "X-UI_SSL_uCuGyPflnVk_480p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-2/releases/download/co-releases-v1-1508/X-UI_SSL_uCuGyPflnVk_480p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-2/releases/assets/423180532",
+      "id": 423180532,
+      "size": 25099975,
+      "download_count": 0
+    }
+  ]
+}
