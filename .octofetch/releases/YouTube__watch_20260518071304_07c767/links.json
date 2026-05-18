@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5067",
+  "folder": "YouTube__watch_20260518071304_07c767",
+  "base_name": "1v1_pros_battle_it_out_pDUdEr1xuzA_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-2/releases/tag/co-releases-v1-5067",
+  "files": [
+    {
+      "name": "1v1_pros_battle_it_out_pDUdEr1xuzA_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-2/releases/download/co-releases-v1-5067/1v1_pros_battle_it_out_pDUdEr1xuzA_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-2/releases/assets/423066480",
+      "id": 423066480,
+      "size": 322544464,
+      "download_count": 0
+    }
+  ]
+}
