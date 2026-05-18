@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5831",
+  "folder": "YouTube__watch_20260518100737_17f1aa",
+  "base_name": "Psiphon_V2Ray_jx3f3InA0kM_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-2/releases/tag/co-releases-v1-5831",
+  "files": [
+    {
+      "name": "Psiphon_V2Ray_jx3f3InA0kM_480p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-2/releases/download/co-releases-v1-5831/Psiphon_V2Ray_jx3f3InA0kM_480p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-2/releases/assets/423187177",
+      "id": 423187177,
+      "size": 14621019,
+      "download_count": 0
+    }
+  ]
+}
