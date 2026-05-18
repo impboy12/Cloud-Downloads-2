@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4187",
+  "folder": "YouTube__watch_20260518103315_90b382",
+  "base_name": "CDN-Fronting_(_)(_)(MahsaNG)_uEVJtRmvJf8_360p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-2/releases/tag/co-releases-v1-4187",
+  "files": [
+    {
+      "name": "CDN-Fronting_._._.MahsaNG._uEVJtRmvJf8_360p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-2/releases/download/co-releases-v1-4187/CDN-Fronting_._._.MahsaNG._uEVJtRmvJf8_360p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-2/releases/assets/423203346",
+      "id": 423203346,
+      "size": 6367759,
+      "download_count": 0
+    }
+  ]
+}
