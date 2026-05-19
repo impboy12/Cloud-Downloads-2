@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7388",
+  "folder": "YouTube__watch_20260519001209_e4cb79",
+  "base_name": "ZH_-_USA_Air_Force_All-In_Build_Order_zX82fLitLcw_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-2/releases/tag/co-releases-v1-7388",
+  "files": [
+    {
+      "name": "ZH_-_USA_Air_Force_All-In_Build_Order_zX82fLitLcw_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-2/releases/download/co-releases-v1-7388/ZH_-_USA_Air_Force_All-In_Build_Order_zX82fLitLcw_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-2/releases/assets/423738471",
+      "id": 423738471,
+      "size": 89628177,
+      "download_count": 0
+    }
+  ]
+}
