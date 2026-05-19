@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3287",
+  "folder": "YouTube__watch_20260519172944_9c7835",
+  "base_name": "SiZe_sends_Fargo_workers_to_space_HMXOQ955TJI_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-2/releases/tag/co-releases-v1-3287",
+  "files": [
+    {
+      "name": "SiZe_sends_Fargo_workers_to_space_HMXOQ955TJI_480p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-2/releases/download/co-releases-v1-3287/SiZe_sends_Fargo_workers_to_space_HMXOQ955TJI_480p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-2/releases/assets/424384693",
+      "id": 424384693,
+      "size": 98811356,
+      "download_count": 0
+    }
+  ]
+}
