@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2470",
+  "folder": "YouTube__watch_20260519001655_20c24d",
+  "base_name": "CRAZY_SHOT_ExCaL_vs_BoYcaH_Nuke_vs_Demo_Canyon_Frost_KUiJGlpVS_8_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-2/releases/tag/co-releases-v1-2470",
+  "files": [
+    {
+      "name": "CRAZY_SHOT_ExCaL_vs_BoYcaH_Nuke_vs_Demo_Canyon_Frost_KUiJGlpVS_8_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-2/releases/download/co-releases-v1-2470/CRAZY_SHOT_ExCaL_vs_BoYcaH_Nuke_vs_Demo_Canyon_Frost_KUiJGlpVS_8_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-2/releases/assets/423741020",
+      "id": 423741020,
+      "size": 537192911,
+      "download_count": 0
+    }
+  ]
+}
