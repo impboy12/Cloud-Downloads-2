@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5310",
+  "folder": "YouTube__watch_20260519172011_2412fe",
+  "base_name": "ExCaL_(usa)_vs_Truck_(gla)_BASE_TRADE_5DYNZLBrp0Y_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-2/releases/tag/co-releases-v1-5310",
+  "files": [
+    {
+      "name": "ExCaL_.usa._vs_Truck_.gla._BASE_TRADE_5DYNZLBrp0Y_480p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-2/releases/download/co-releases-v1-5310/ExCaL_.usa._vs_Truck_.gla._BASE_TRADE_5DYNZLBrp0Y_480p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-2/releases/assets/424378725",
+      "id": 424378725,
+      "size": 66366876,
+      "download_count": 0
+    }
+  ]
+}
